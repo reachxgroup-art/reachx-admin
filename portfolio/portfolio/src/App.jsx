@@ -6,7 +6,7 @@ const App = () => {
   return (
     <div>
       <a
-  href="https://reachxgroup.netlify.app/"
+  href="https://reach-x.vercel.app/"
   target="_blank"
   rel="noopener noreferrer"
 >
