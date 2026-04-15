@@ -8,10 +8,9 @@ const app = express();
 
 app.use(cors({
     origin: [
-        "http://localhost:5173",
         "https://reachx-admin-six.vercel.app",
-        "https://reachx-market-place.vercel.app",
-        "https://reachxgroup.netlify.app",
+        "https://reachx-marketplace.vercel.app",
+        "https://reach-x.vercel.app",
     ],
     credentials: true
 }));
